@@ -2,10 +2,10 @@
   "Version": "2.0",
   "ReleaseNotes": "NOVOS TERMOS DE USO NA ABA ESQUERDA 2.0 @VEM_BRABO - update vivo prÃ© pago funcional e vivo easy funcional",
   "UrlUpdate": "https://raw.githubusercontent.com/ricardogomesmix/att1/main/Atlwo",
-  "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
-  "EmailFeedback": "ultranetvpn@gmail.com",
-  "UrlContato": "https://t.me/VEM_BRABO",
-  "UrlTermos": "https://vembrabo.alphi.media/loja1",
+  "Sms": "https://bitbin.it/eKqhjpJd/raw",
+  "EmailFeedback": "cxccccc@gmail.com",
+  "UrlContato": "https://t.me/ricardomaxnet",
+  "UrlTermos": "https://       ",
   "CheckUser": "true",
   "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
   "Servers": [
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sw.csaz.xyz",
-      "CheckUser": "http://sw.csaz.xyz:9494/checkUser",
+      "CheckUser": "http://sw.csaz.xyz:9898/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -229,7 +229,7 @@
       "SNI": "m.twitter.com",
       "TlsIP": "",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Ssl"
    },
 {
@@ -239,7 +239,7 @@
       "SNI": "m.waze.com",
       "TlsIP": "",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Ssl"
    },
     {
@@ -443,7 +443,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "OI e",
+      "Name": "OI 3",
       "FLAG": "oi",
       "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "oii.gdmhost.ga",
