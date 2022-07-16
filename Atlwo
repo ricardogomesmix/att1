@@ -10,11 +10,11 @@
   "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
   "Servers": [
       {
-      "Name": "SERVIDOR BR3",
+      "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "servidorbr3.natan4g.tk",
-      "CheckUser": "http://20.124.14.43:5454/checkUser",
+      "ServerIP": "sw.csaz.xyz",
+      "CheckUser": "http://sw.csaz.xyz:9494/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -23,7 +23,7 @@
   ],
 "Networks": [
     {
-   "Name": "ðŸŸ£ VIVO PRÃ‰ PAGO 1 ðŸŸ£",
+   "Name": "VIVO PRE PAGO 1",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -33,7 +33,7 @@
       "Info": "Tlsws"
   },
   {
-      "Name": "ðŸŸ£ VIVO PRE PAGO 2 ðŸŸ£",
+      "Name": "VIVO PRE PAGO 2",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.alura.com.br",
@@ -43,7 +43,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "ðŸŸ£ VIVO PRE PAGO 3 ðŸŸ£",
+      "Name": "VIVO PRE PAGO 3",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.alura.com.br",
@@ -53,7 +53,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "ðŸŸ£ VIVO 4 ðŸŸ£",
+      "Name": "VIVO 4",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "[app_host]",
@@ -63,7 +63,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "ðŸŸ£ VIVO 5 ðŸŸ£",
+      "Name": "VIVO 5",
       "FLAG": "vivo",
       "Payload": "GET wss://telefonica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "telefonica.com.br",
@@ -73,7 +73,7 @@
       "Info": "Tlsws"
     },
     {
-       "Name": "ðŸŸ£ VIVO 6 ðŸŸ£",
+       "Name": "VIVO 6",
       "FLAG": "vivo",
       "Payload": "GET wss://web.vivo.com.br HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "web.vivo.com.br",
@@ -83,7 +83,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "ðŸŸ£ VIVO 7 ðŸŸ£",
+      "Name": "VIVO 7",
   "FLAG": "vivo",
   "Payload": "GET ssl://support.pokemon.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
   "SNI": "support.pokemon.com",
@@ -93,7 +93,7 @@
   "Info": "Proxy"
   },
    {
-      "Name": "ðŸŸ£ VIVO PRE PAGO 8 ðŸŸ£",
+      "Name": "VIVO PRE PAGO 8",
       "FLAG": "vivo",
       "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
@@ -103,7 +103,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "ðŸŸ£ VIVO EASY 1 ðŸŸ£",
+      "Name": "VIVO EASY 1",
       "FLAG": "vivo",
       "Payload": "GET wss://vivo360.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
@@ -113,7 +113,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”µTIM",
+      "Name": "TIM 1",
       "FLAG": "tim",
       "Payload": "GET wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "texugo.alura.com.br",
@@ -123,7 +123,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”µTIM",
+      "Name": "TIM 2",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -133,7 +133,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”µTIM",
+      "Name": "TIM 3",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -143,7 +143,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”µTIM",
+      "Name": "TIM 4",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -153,7 +153,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”µTIM",
+      "Name": "TIM 5",
       "FLAG": "tim",
       "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "blog.alura.com.br",
@@ -163,7 +163,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”µTIM",
+      "Name": "TIM 6",
       "FLAG": "tim",
       "Payload": "GET wss://empresas.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "empresas.alura.com.br",
@@ -173,7 +173,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”µTIM",
+      "Name": "TIM 7",
       "FLAG": "tim",
       "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.alura.com.br",
@@ -183,7 +183,7 @@
       "Info": "Tlsws"
    },
     {
-      "Nome": "TIM 1",
+      "Nome": "TIM 8",
       "BANDEIRA": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -193,7 +193,7 @@
       "InformaÃ§Ãµes": "Tlsws"
    },
     {
-      "Nome": "TIM 2",
+      "Nome": "TIM 9",
       "BANDEIRA": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -203,7 +203,7 @@
       "InformaÃ§Ãµes": "Tlsws"
    },
     {
-      "Nome": "TIM 3",
+      "Nome": "TIM 10",
       "BANDEIRA": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -213,7 +213,7 @@
       "InformaÃ§Ãµes": "Tlsws"
    },
     {
-      "Nome": "TIM 4",
+      "Nome": "TIM 11",
       "BANDEIRA": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -223,7 +223,7 @@
      "InformaÃ§Ãµes": "Tlsws"
      },
    {
-      "Name": "ðŸ”´CLARO FLEX T",
+      "Name": "CLARO FLEX T",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.twitter.com",
@@ -233,7 +233,7 @@
       "Info": "Ssl"
    },
 {
-      "Name": "ðŸ”´CLARO FLEX W",
+      "Name": "CLARO FLEX W",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
@@ -243,7 +243,7 @@
       "Info": "Ssl"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 1",
       "FLAG": "claro",
       "Payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "go.kaltura.com",
@@ -253,7 +253,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 2",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ct.livestream.com",
@@ -263,7 +263,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 3",
       "FLAG": "claro",
       "Payload": "GET wss://br.corp.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "br.corp.kaltura.com",
@@ -273,7 +273,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 4",
       "FLAG": "claro",
       "Payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "communitystaging.kaltura.com",
@@ -283,7 +283,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 5",
       "FLAG": "claro",
       "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "stage-corp.kaltura.com",
@@ -293,7 +293,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 6",
       "FLAG": "claro",
       "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vimeo.livestream.com",
@@ -303,7 +303,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 7",
       "FLAG": "claro",
       "Payload": "GET wss://learning.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "learning.kaltura.com",
@@ -313,7 +313,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸ”´CLARO",
+      "Name": "CLARO 8",
       "FLAG": "claro",
       "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "icanhazip.com",
@@ -323,7 +323,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "ðŸ”´CLARO TESTE",
+      "Name": "CLARO TESTE",
       "FLAG": "claro",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "mobilidade.cloud.caixa.gov.br",
@@ -334,7 +334,7 @@
    },
     {
  "Name": "CLARO NOVO",
-      "FLAG": "claro.png",
+      "FLAG": "claro",
       "Payload": "GET wss://community.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "community.kaltura.com",
       "TlsIP": "104.17.73.206",
@@ -343,7 +343,7 @@
       "Info": "Tlsws"
     },
     {
-       "Name": "CLARO 2",
+       "Name": "CLARO 9",
       "FLAG": "claro",
       "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "api.new.livestream.com",
@@ -353,7 +353,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "CLARO 3",
+      "Name": "CLARO 10",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ct.livestream.com",
@@ -363,7 +363,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "CLARO 4",
+      "Name": "CLARO 11",
       "FLAG": "claro",
       "Payload": "GET wss://uploads.api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "uploads.api.new.livestream.com",
@@ -373,7 +373,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "CLARO 5",
+      "Name": "CLARO 12",
       "FLAG": "claro",
       "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "api.new.livestream.com",
@@ -383,7 +383,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "CLARO 6",
+      "Name": "CLARO 13",
       "FLAG": "claro",
       "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "lp.livestream.com",
@@ -393,7 +393,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "CLARO 7",
+      "Name": "CLARO 14",
       "FLAG": "claro",
       "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vimeo.livestream.com",
@@ -403,7 +403,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "CLARO 8",
+      "Name": "CLARO 15",
       "FLAG": "claro",
       "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "api.new.livestream.com",
@@ -413,7 +413,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "CLARO 9",
+      "Name": "CLARO 16",
       "FLAG": "claro",
       "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "icanhazip.com",
@@ -423,7 +423,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸŸ¡OI",
+      "Name": "OI 1",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
@@ -433,7 +433,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸŸ¡OI",
+      "Name": "OI 2",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
@@ -443,7 +443,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "ðŸŸ¡OI",
+      "Name": "OI e",
       "FLAG": "oi",
       "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "oii.gdmhost.ga",
