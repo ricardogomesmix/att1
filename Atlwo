@@ -33,7 +33,7 @@
   ],
   "Networks": [
     {
-      "Name": "Vivo 5G 𝟬𝟭 ",
+      "Name": "Vivo 5G 01 ",
       "FLAG": "vivo",
       "Payload": "GET wss://[rotate=portaljud.vivo.com.br;support.pokemon.com;unpkg.com;alura.com.br] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "",
@@ -43,7 +43,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟮  ",
+      "Name": "Vivo 5G 02",
       "FLAG": "vivo",
       "Payload": "GET wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.vivorio.com.br",
@@ -53,7 +53,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟯 ",
+      "Name": "Vivo 5G 03",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -63,7 +63,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟰 ",
+      "Name": "Vivo 5G 04",
       "FLAG": "vivo",
       "Payload": "GET wss://backoffice-equipamentos01.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "backoffice-equipamentos01.vivo.com.br",
@@ -73,7 +73,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟱",
+      "Name": "Vivo 5G 05",
       "FLAG": "vivo",
       "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
@@ -83,7 +83,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟲 ",
+      "Name": "Vivo 5G 06",
       "FLAG": "vivo",
       "Payload": "GET wss://beneficios.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
       "SNI": "beneficios.vivo.com.br",
@@ -93,7 +93,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟳 ",
+      "Name": "Vivo 5G 07 ",
       "FLAG": "vivo",
       "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "",
@@ -103,7 +103,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟴 ",
+      "Name": "Vivo 5G 08",
       "FLAG": "vivo",
       "Payload": "GET wss://belis.sk/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "belis.sk",
@@ -113,7 +113,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Vivo 5G 𝟬𝟵",
+      "Name": "Vivo 5G 09",
       "FLAG": "vivo",
       "Payload": "GET wss://rapehun.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "rapehun.com",
@@ -123,7 +123,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟬𝟭 𝐎𝐍 ",
+      "Name": "Vivo on 01",
       "FLAG": "vivo",
       "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
@@ -133,7 +133,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟬𝟮 𝐎𝐍 ",
+      "Name": "Vivo on 02 ",
       "FLAG": "vivo",
       "Payload": "GET wss://market.ebanx.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "market.ebanx.com",
@@ -143,7 +143,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟬𝟯 𝐎𝐍",
+      "Name": "Vivo on 03",
       "FLAG": "vivo",
       "Payload": "GET wss://corporate.ebanx.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "corporate.ebanx.com",
@@ -153,7 +153,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟬𝟰 𝐎𝐍",
+      "Name": "Vivo on 04",
       "FLAG": "vivo",
       "Payload": "GET wss://legado.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "legado.vivo.com.br",
@@ -163,7 +163,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟬𝟱 𝐎𝐍",
+      "Name": "Vivo on 05",
       "FLAG": "vivo",
       "Payload": "GET wss://lgpdfront.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "lgpdfront.vivo.com.br",
@@ -173,7 +173,7 @@
       "Info": "Tlsws️"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝗘𝗔𝗦𝗬 𝟬𝟭 📡",
+      "Name": "Vivo Easy 01",
       "FLAG": "vivo",
       "Payload": "GET wss://live.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "live.vivo.com.br",
@@ -183,7 +183,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝗘𝗔𝗦𝗬 𝟬𝟮 📡",
+      "Name": "Vivo Easy 02",
       "FLAG": "vivo",
       "Payload": "GET wss://gedoc.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
@@ -193,7 +193,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝗘𝗔𝗦𝗬 𝟬𝟯 📡",
+      "Name": "Vivo Easy 03",
       "FLAG": "vivo",
       "Payload": "GET ssl://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
@@ -203,7 +203,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝗘𝗔𝗦𝗬 𝟬𝟰 📡",
+      "Name": "Vivo Easy 04",
       "FLAG": "vivo",
       "Payload": "GET ssl://vivo360.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
@@ -213,7 +213,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 ",
+      "Name": "Vivo 4g 01",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -223,7 +223,7 @@
      "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬2 📡 ",
+      "Name": "Vivo 4g 02",
       "FLAG": "vivo",
       "Payload": "GET wss://app.pipefy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "app.pipefy.com",
@@ -233,7 +233,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬3 📡 ",
+      "Name": "Vivo 4g 03",
       "FLAG": "vivo",
       "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
@@ -243,7 +243,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬4📡 ",
+      "Name": "Vivo 4g 04",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -253,7 +253,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬5📡 ",
+      "Name": "Vivo 4g 05",
       "FLAG": "vivo",
       "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
@@ -263,7 +263,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬6 📡 ",
+      "Name": "Vivo 4g 06",
       "FLAG": "vivo",
       "Payload": "GET wss://planos.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "planos.vivo.com.br",
@@ -273,7 +273,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬7📡 ",
+      "Name": "Vivo 4g 07",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -283,7 +283,7 @@
      "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬8📡 ",
+      "Name": "Vivo 4g 08",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -293,7 +293,7 @@
      "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 09 📡 ",
+      "Name": "Vivo 4g 09",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -303,7 +303,7 @@
      "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 10 📡 ",
+      "Name": "Vivo 4G 10",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -313,7 +313,7 @@
      "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 11📡 ",
+      "Name": "Vivo 4G 11",
       "FLAG": "vivo",
       "Payload": "GET wss://cse.canva.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "cse.canva.com",
@@ -323,7 +323,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 12📡",
+      "Name": "Vivo 4G 12",
       "FLAG": "vivo",
       "Payload": "GET wss://edu.bitso.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "edu.bitso.com",
@@ -333,7 +333,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 13 📡",
+      "Name": "Vivo 4G 13",
       "FLAG": "vivo.png",
       "Payload": "GET wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "cname.vivo.com.br",
@@ -343,7 +343,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 14 📡",
+      "Name": "Vivo 4G 14",
       "FLAG": "vivo",
       "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "onepiece.com",
@@ -353,7 +353,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱𝗩𝗜𝗩𝗢 𝟰𝗚 15 ",
+      "Name": "Vivo 4G 15",
       "FLAG": "vivo",
       "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "help.pornhub.com",
@@ -363,7 +363,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟰𝗚 16",
+      "Name": "Vivo 4G 16",
       "FLAG": "vivo",
       "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.uptodown.com",
@@ -373,7 +373,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟰𝗚 17",
+      "Name": "Vivo 4G 17",
       "FLAG": "vivo",
       "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.pokemon.com",
@@ -383,7 +383,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟰𝗚 18",
+      "Name": "Vivo 4G 18",
       "FLAG": "vivo",
       "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "checkout.mediafire.com",
@@ -393,7 +393,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗩𝗜𝗩𝗢 𝟰𝗚 19",
+      "Name": "Vivo 4G 19",
       "FLAG": "vivo",
       "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
@@ -403,7 +403,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": " 𝗧𝗜𝗠 𝟱𝗚 𝟬𝟭 🔵",
+      "Name": " Tim 5G 01",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -413,7 +413,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗧𝗜𝗠 𝟱𝗚 𝟬𝟮🔵",
+      "Name": "Tim 5G 02",
       "FLAG": "tim",
       "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "cdnjs.cloudflare.com",
@@ -423,7 +423,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗧𝗜𝗠 𝟱𝗚 𝟬𝟯 🔵",
+      "Name": "Tim 5G 03",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "static.r4you.co",
@@ -433,7 +433,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗧𝗜𝗠 𝟱𝗚 𝟬𝟰 🔵",
+      "Name": "Tim 5G 04",
       "FLAG": "tim",
       "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "emartim.com.br",
@@ -443,7 +443,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗧𝗜𝗠 𝟱𝗚 𝟬𝟱 🔵",
+      "Name": "Tim 5G 05",
       "FLAG": "tim",
       "Payload": "GET wss://materiais.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "materiais.alura.com.br",
@@ -453,7 +453,7 @@
       "Info": "Tlsws"
     },
      {
-      "Name": "𝗧𝗜𝗠 𝟱𝗚 𝟬𝟲🔵",
+      "Name": "Tim 5G 06",
       "FLAG": "tim.png",
       "Payload": "GET wss://bobcontents.bennuapp.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "bobcontents.bennuapp.com.br",
@@ -463,7 +463,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗧𝗜𝗠 𝟱𝗚 𝟬𝟳 🔵",
+      "Name": "Tim 5G 07",
       "FLAG": "tim.png",
       "Payload": "GET wss://blog.alura.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "blog.alura.com.br",
@@ -473,7 +473,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟭 🔴",
+      "Name": "Claro 5G 01",
       "FLAG": "Claro",
       "Payload": "GET wss://connect.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "connect.kaltura.com",
@@ -483,7 +483,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟮 🔴",
+      "Name": "Claro 5G 02",
       "FLAG": "claro",
       "Payload": "GET wss://videos.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "videos.kaltura.com",
@@ -493,7 +493,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟯 🔴",
+      "Name": "Claro 5G 03",
       "FLAG": "claro",
       "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "content.akross.com.br",
@@ -503,7 +503,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟰🔴",
+      "Name": "Claro 5G 04",
       "FLAG": "claro",
       "Payload": "GET ssl://api.new.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "api.new.livestream.com",
@@ -513,7 +513,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟱 🔴",
+      "Name": "Claro 5G 05",
       "FLAG": "claro",
       "Payload": "GET ssl://icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "icanhazip.com",
@@ -523,7 +523,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟲🔴",
+      "Name": "Claro 5G 06",
       "FLAG": "claro",
       "Payload": "GET ssl://ct.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ct.livestream.com",
@@ -533,7 +533,7 @@
       "Info": "Tlsws"
     },   
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟳 📡 🔴",
+      "Name": "Claro 5G 07",
       "FLAG": "claro",
       "Payload": "GET communitystaging.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "communitystaging.kaltura.com",
@@ -543,7 +543,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟴 📡 🔴",
+      "Name": "Claro 5G 08",
       "FLAG": "claro",
       "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vimeo.livestream.com",
@@ -553,7 +553,7 @@
       "Info": "Tlsws"
     },
     {  
-      "Name": "𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬𝟵 📡 🔴",
+      "Name": "Claro 5G 09",
       "FLAG": "claro.png",
       "Payload": "GET wss://community.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "community.kaltura.com",
@@ -563,7 +563,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗢𝗶 𝟱𝗚 𝟬𝟭 📡 ",
+      "Name": "Oi 5G 01",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
@@ -573,7 +573,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗢𝗶 𝟱𝗚 𝟬𝟮 📡",
+      "Name": "Oi 5G 02",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
@@ -583,7 +583,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗢𝗶 𝟱𝗚 𝟬𝟯 📡",
+      "Name": "Oi 5G 03",
       "FLAG": "oi",
       "Payload": "GET / HTTP/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "oii.gdmhost.ga",
@@ -593,7 +593,7 @@
       "Info": "proxy"
     },
     {
-      "Name": "𝗢𝗶 𝟱𝗚 𝟬𝟰 📡",
+      "Name": "Oi 5G 04",
       "FLAG": "oi",
       "Payload": "GET / HTTP/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "oii.gdmhost.ga",
@@ -603,7 +603,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "𝗢𝗶 𝟱𝗚 𝟬𝟱 📡 ",
+      "Name": "Oi 5G 05",
       "FLAG": "oi",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
