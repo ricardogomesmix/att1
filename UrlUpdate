@@ -1,11 +1,12 @@
-{
+ {
   "Version": "1.0.2",
   "ReleaseNotes": "UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/ricardogomesmix/att1/main/UrlUpdate",
-  "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
-  "EmailFeedback": "kiritosshxd5733@gmail.com",
-  "UrlContato": "https://t.me/kiritosshxd",
+  "Sms": "https://bitbin.it/eKqhjpJd/raw",
+  "EmailFeedback": "EmailFeedback":"ricardo.araujo340@gmail.com",
+  "UrlContato": "https://t.me/ricardomaxnet",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "true",
   "Udp": [
     {
       "Porta": "7300"
